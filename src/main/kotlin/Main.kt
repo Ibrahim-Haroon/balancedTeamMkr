@@ -35,6 +35,10 @@ class Player() {
 
 }
 
+fun main(args: Array<String>) {
+    //test
+}
+
 
 //    val playerComparator = Comparator<Player> {player1, player2 ->
 //        if (player1.onRealTeam && player2.onRealTeam) {
@@ -94,10 +98,3 @@ class Player() {
 //            1;
 //        }
 //    }
-
-
-
-
-fun main(args: Array<String>) {
-
-}
